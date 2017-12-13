@@ -150,7 +150,7 @@ class Machine extends Component {
     }
     return (
       <div>
-      <p>Built with React.js - Here is the <a href="https://github.com/alexlydiate/react-step-sequencer">source code</a>. Thanks to the <a href="https://github.com/bit101/tones">tones</a> library which wraps the Web Audio API and provides the synth.</p>
+      <p>Built with React.js - here is the <a href="https://github.com/alexlydiate/react-step-sequencer">source code</a>. Thanks to the <a href="https://github.com/bit101/tones">tones</a> library which wraps the Web Audio API and provides the synth.</p>
       <p></p>
       <div id="controls">
       
