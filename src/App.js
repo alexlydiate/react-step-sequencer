@@ -151,6 +151,7 @@ class Machine extends Component {
     return (
       <div>
       <p>Built with React.js - thanks to the <a href="https://github.com/bit101/tones">tones</a> library which wraps the Web Audio API and provides the synth.</p>
+      <p><a href="https://github.com/alexlydiate/react-step-sequencer">Source Code</a></p>
       <div id="controls">
       
         <div id="showstate">{beats} beat loop at a tempo of {tempo} bpm</div>
